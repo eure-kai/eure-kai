@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eure-kai. I'm a rising 9th Grader (freshman).
 - 👀 Academics I'm interested in: Math (comp math), Science, History, Languages and Cultures
 - 👀 Other things I like to do: Coding, Playing games, Practicing my instrument
-- 🌱 I’m currently learning Java. I'm quite advanced in Python and aiming to learn C++ in the future.
+- 🌱 I know Python and I'm currently learning Java. I'm hoping to learn C++ in the future.
 - 🚀 Goals: Having fun and being successful in HS and beyond 
 
 <!---
