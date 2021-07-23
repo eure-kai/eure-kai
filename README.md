@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @eure-kai. I'm a rising 9th Grader (freshman).
+- 👋 Hi, I’m @eure-kai. I'm a rising 9th Grader at BCA.
 - 👀 Academics I'm interested in: Math (comp math), Science, History, Languages and Cultures
 - 👀 Other things I like to do: Coding, Playing games, Practicing my instrument
-- 🌱 I know Python and I'm currently learning Java. I'm hoping to learn C++ in the future.
-- 🚀 Goals: Having fun and being successful in HS and beyond 
+- 🌱 Python: ✅, Java: 🏫 (learning)
+- 🚀 Goals: Learn C++, Have fun and be successful in HS and beyond
 
 <!---
 eure-kai/eure-kai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
