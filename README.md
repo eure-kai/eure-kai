@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eure-kai. I'm a rising 9th Grader at BCA.
-- 👀 Academics I'm interested in: Math (comp math), Science, History, Languages and Cultures
+- 👀 Academics I like: Math, Science, Humanities
 - 👀 Other things I like to do: Coding, Playing games, Practicing my instrument
 - 🌱 Python: ✅, Java: 🏫 (learning)
 - 🚀 Goals: Learn C++, Have fun and be successful in HS and beyond
