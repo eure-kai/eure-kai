@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eure-kai. I'm a rising 9th Grader at BCA.
+- 👋 Hi, I’m @eure-kai. I'm a freshman at BCA.
 - 👀 Academics I like: Math, Science, Humanities
 - 👀 Other things I like to do: Coding, Playing games, Practicing my instrument
 - 🌱 Python: ✅, Java: 🏫 (learning)
