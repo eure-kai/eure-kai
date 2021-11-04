@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eure-kai. I'm a freshman at BCA.
 - 👀 Things I like: Math, Science, Coding, Playing games
-- 🌱 Python: ✔, learning Java and C++
+- 🌱 Python: ✔, Java: ✔, learning C++
 - 🚀 Goals: Have fun and be successful in HS and beyond
 
 <!---
