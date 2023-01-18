@@ -1,3 +1,3 @@
 - Kai (김하온)
-- Favorite Language: Java
-- learning C++
+- Bergen County Academies
+- 10th
